@@ -98,6 +98,7 @@ Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
 
 ---
 ### 💼 Applications Currently in Various Stages of Development
+
 #### 🧪 WhatsApp Web Automation Tester
 A web app for automating WhatsApp web-based tests.
 
