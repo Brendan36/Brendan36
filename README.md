@@ -11,51 +11,101 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 ---
 
 ### 📚 Table of Contents 
+- [📫 Connect With Me](#-connect-with-me)  
 - [🎓 Education](#-education)
 - [🧠 Tech Stack](#-tech-stack)  
 - [💼 Applications In Progress](#-applications-currently-in-various-stages-of-development)
 - [🌱 Future-Focused Projects](#-future-focused-projects)  
-- [📫 Connect With Me](#-connect-with-me)  
 
 ---
-### ⚡ Fun fact: ...
+
+### 🤝 Let’s connect if you’re working on:
   
-#### 🧠 My work sits at the intersection of:
 
-Finance & Sustainability · building algorithmic trading systems that prioritize ethical investment
+✅ Ethical finance & fintech
 
-AI & Human Insight · applying machine learning, NLP, and statistical models to extract meaning from complex data
+✅ AI/ML for transparency or sustainability
 
-Education & Empowerment · drawing on 5+ years as an ESL instructor to make data and tech more accessible
+✅ Truth detection, smart analytics, or responsible tech
 
-Innovation & Integrity · developing the "| be |" project suite to spark reflection, fairness, and accountability in tech
+---
+### ⚡ My work sits at the intersection of:
+
+
+**Finance & Sustainability** · building an algorithmic trading system that prioritize ethical investment.
+
+
+**AI & Human Insight** · applying machine learning, NLP, and statistical models to extract meaning from complex data.
+
+
+**Innovation & Integrity** · developing a project suite to spark reflection, fairness, and accountability.
+
+---
+### 📫 Connect With Me
+
+- 🌐 GitHub: Brendan36
+- 💼 LinkedIn: [Brendan E](https://www.linkedin.com/in/brendan-e-0b1a4b1a6/)
+- 📧 Email: elario36@gmail.com
+
 
 ---
 ### 🎓 Education
 BSc (Hons) in Information Technology (in progress)
 Richfield Graduate Institute of Technology
-Focus areas: Predictive Analytics · AI in Finance, Media, Farming · Blockchain · ESG
 
-#### 🌱 I’m currently learning ...
+Focus areas 🎯: Predictive Analytics · AI (in Finance) · Media · Blockchain · ESG
+
+#### 🌱 I’m currently ...
   
-Currently pursuing a BSc (Hons) in Information Technology, I’m combining academic rigor with real-world experimentation — transforming code, data, and values into products that matter.
+Pursuing a BSc (Hons) in Information Technology - to combine academic rigor with real-world experimentation — aiming to transform code, data, and values into products that matter.
 
 ---
 
 ### 🧠 Tech Stack
+Python · Pandas · NumPy · Matplotlib · Plotly · Streamlit
 
-Python · Pandas · NumPy · Matplotlib · Plotly · Streamlit · Selenium · Django · Flask · Scikit-learn · TensorFlow · 
-· REST APIs · PyCharm · Spyder · RStudio · Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-ff69b4.svg)
+![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-ff69b4.svg)
+![Matplotlib](https://img.shields.io/badge/Data%20Visualization-Matplotlib-ff69b4.svg)
+![Plotly](https://img.shields.io/badge/Data%20Visualization-Plotly-ff69b4.svg)
+![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b)
+
+Selenium · Scikit-learn · TensorFlow · REST APIs · Django · Flask
+
+![Selenium](https://img.shields.io/badge/Automation-Selenium-brightgreen)
+![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-ff69b4.svg)
+![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-ff69b4.svg)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs-ff69b4.svg)
+
+PyCharm · Spyder · RStudio · 
+
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-ff69b4.svg)
+![Spyder](https://img.shields.io/badge/IDE-Spyder-ff69b4.svg)
+![RStudio](https://img.shields.io/badge/IDE-RStudio-ff69b4.svg)
+
+Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
+
+![Git](https://img.shields.io/badge/Version%20Control-Git-ff69b4.svg)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-ff69b4.svg)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-ff69b4.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-ff69b4.svg)
 
 ---
 ### 💼 Applications Currently in Various Stages of Development
+#### 🧪 WhatsApp Web Automation Tester
+A web app for automating WhatsApp web-based tests.
+
+#### 📊 Data Analysis Simulator
+A web app for simulating data analysis tasks.
+
 #### ✅ To-do List
 A simple web app for creating, updating, and deleting daily tasks.
 
 #### 📊 Automate Excel
 Upload an Excel file and auto-fill data into a template — no more repetitive manual entry!
 
-#### 🤖 AI Avatar (in progress)
+#### 🤖 AI Avatar
 An experimental AI-based avatar creator.
 
 #### ⌨ Typing Analyzer
@@ -67,19 +117,19 @@ Monitors a webcam and emails the user when movement is detected.
 #### 🛰️ Monitoring Data
 Monitors and records specific website data to a remote server.
 
-#### 📈 Visualizing Data (in progress)
+#### 📈 Visualizing Data
 Visualizes data pulled from websites using intuitive dashboards.
 
-#### 📰 Good News (in progress)
+#### 📰 Good News
 Fetches news using a sentiment filter — only positive news gets published!
 
-#### 🌡️ Climate Change API (in progress)
+#### 🌡️ Climate Change API
 A REST API serving historical weather data to analyze climate change patterns.
 
 #### ☁️ Weather Forecast
 Forecasts 5-day weather trends by comparing current and historical data for future predictions.
 
-#### 🛍️ Online Store (in progress)
+#### 🛍️ Online Store
 A Django-based sustainable store featuring eco-conscious vendors and transparent practices.
 
 #### 🐾 How My Pet Sees the World
@@ -115,23 +165,7 @@ A data-driven platform designed to empower individuals to “be” their most in
 
 ---
 
-## 📫 Connect With Me
 
-- 🌐 GitHub: Brendan36
-- 💼 LinkedIn: [Brendan E](https://www.linkedin.com/in/brendan-e-0b1a4b1a6/)
-- 📧 Email: elario36@gmail.com
-
----
-
-### 💞️ I’m looking to collaborate on ...
-  
-Let’s connect if you’re working on:
-
-✅ Ethical finance & fintech
-
-✅ AI/ML for transparency or sustainability
-
-✅ Truth detection, smart analytics, or responsible tech
 
 <!---
 Brendan36/Brendan36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
