@@ -64,32 +64,33 @@ Pursuing a BSc (Hons) in Information Technology - to combine academic rigor with
 ### 🧠 Tech Stack
 Python · Pandas · NumPy · Matplotlib · Plotly · Streamlit
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-ff69b4.svg)
-![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-ff69b4.svg)
-![Matplotlib](https://img.shields.io/badge/Data%20Visualization-Matplotlib-ff69b4.svg)
-![Plotly](https://img.shields.io/badge/Data%20Visualization-Plotly-ff69b4.svg)
+![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
+![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-blue.svg)
+![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-blue.svg)
+![Matplotlib](https://img.shields.io/badge/Data%20Visualization-Matplotlib-00008B.svg)
+![Plotly](https://img.shields.io/badge/Data%20Visualization-Plotly-00008B.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b)
 
-Selenium · Scikit-learn · TensorFlow · REST APIs · Django · Flask
+Selenium · Scikit-learn · TensorFlow · REST APIs · OpenAI
 
 ![Selenium](https://img.shields.io/badge/Automation-Selenium-brightgreen)
-![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-ff69b4.svg)
-![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-ff69b4.svg)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs-ff69b4.svg)
+![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-FFA500.svg)
+![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-FFA500.svg)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs-FFD700.svg)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-black.svg)
 
 PyCharm · Spyder · RStudio · 
 
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-ff69b4.svg)
-![Spyder](https://img.shields.io/badge/IDE-Spyder-ff69b4.svg)
-![RStudio](https://img.shields.io/badge/IDE-RStudio-ff69b4.svg)
+![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green.svg)
+![Spyder](https://img.shields.io/badge/IDE-Spyder-red.svg)
+![RStudio](https://img.shields.io/badge/IDE-RStudio-00008B.svg)
 
 Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
 
-![Git](https://img.shields.io/badge/Version%20Control-Git-ff69b4.svg)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-ff69b4.svg)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-ff69b4.svg)
-![SQLite](https://img.shields.io/badge/Database-SQLite-ff69b4.svg)
+![Git](https://img.shields.io/badge/Version%20Control-Git-800080.svg)
+![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-800080.svg)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-006400.svg)
+![SQLite](https://img.shields.io/badge/Database-SQLite-blue.svg)
 
 ---
 ### 💼 Applications Currently in Various Stages of Development
