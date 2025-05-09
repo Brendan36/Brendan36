@@ -4,9 +4,9 @@
   
 ### 💡 Data-Driven Innovator | Ethical Tech Builder | AI-Powered Analyst
 
-### 👀 I’m interested in ...
+#### 👀 Interested in ...
   
-I’m a cross-disciplinary problem solver passionate about using technology, transparency, and truth to build systems that empower people and promote sustainable outcomes. With a foundation in data analytics, algorithmic trading, and AI, I create tools that challenge norms... from ethical trading bots to smart dashboards that visualize impact and decision-making in real time.
+I’m a cross-disciplinary problem solver passionate about using technology, transparency, and truth to build systems that empower people and promote sustainable outcomes. With a foundation in data analytics, algorithmic trading, and AI, I'm creating tools that challenge norms... from ethical trading bots to smart dashboards that visualize impact and decision-making in real time.
 
 ---
 
@@ -64,33 +64,37 @@ Pursuing a BSc (Hons) in Information Technology - to combine academic rigor with
 ### 🧠 Tech Stack
 Python · Pandas · NumPy · Matplotlib · Plotly · Streamlit
 
-![Python](https://img.shields.io/badge/Python-3.10+-green.svg)
-![Pandas](https://img.shields.io/badge/Data%20Analysis-Pandas-blue.svg)
-![NumPy](https://img.shields.io/badge/Data%20Analysis-NumPy-blue.svg)
-![Matplotlib](https://img.shields.io/badge/Data%20Visualization-Matplotlib-00008B.svg)
-![Plotly](https://img.shields.io/badge/Data%20Visualization-Plotly-00008B.svg)
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-darkblue?logo=pandas&logoColor=darkblue)
+![NumPy](https://img.shields.io/badge/NumPy-Analysis-00008B?logo=numpy&logoColor=blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-FFA500?logo=Matplotlib)
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-FFA500?logo=plotly)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web-ff4b4b?logo=streamlit)
+
 
 Selenium · Scikit-learn · TensorFlow · REST APIs · OpenAI
 
-![Selenium](https://img.shields.io/badge/Automation-Selenium-brightgreen)
-![Scikit-learn](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-FFA500.svg)
-![TensorFlow](https://img.shields.io/badge/Machine%20Learning-TensorFlow-FFA500.svg)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-REST%20APIs-FFD700.svg)
-![OpenAI](https://img.shields.io/badge/AI-OpenAI-black.svg)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)
+![REST APIs](https://img.shields.io/badge/REST-APIs-FFD700?logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI-black?logo=openai&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-black?logo=huggingface)
+
 
 PyCharm · Spyder · RStudio · 
 
-![PyCharm](https://img.shields.io/badge/IDE-PyCharm-green.svg)
-![Spyder](https://img.shields.io/badge/IDE-Spyder-red.svg)
-![RStudio](https://img.shields.io/badge/IDE-RStudio-00008B.svg)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-006400?logo=pycharm&logoColor=black)
+![Spyder](https://img.shields.io/badge/Spyder-IDE-ff4b4b?logo=spyder%20ide&logoColor=darkred)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-blue?logo=Rstudio)
+
 
 Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
 
-![Git](https://img.shields.io/badge/Version%20Control-Git-800080.svg)
-![GitHub](https://img.shields.io/badge/Version%20Control-GitHub-800080.svg)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-006400.svg)
-![SQLite](https://img.shields.io/badge/Database-SQLite-blue.svg)
+![Git](https://img.shields.io/badge/Git-VC-800080?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-VC-purple?logo=github&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-DB-white?logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-DB-white?logo=sqlite)
+
 
 ---
 ### 💼 Applications Currently in Various Stages of Development
