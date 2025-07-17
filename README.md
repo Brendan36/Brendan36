@@ -86,7 +86,7 @@ PyCharm · Spyder · RStudio · VS Code
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-006400?logo=pycharm&logoColor=black)
 ![Spyder](https://img.shields.io/badge/Spyder-IDE-ff4b4b?logo=spyder%20ide&logoColor=darkred)
 ![RStudio](https://img.shields.io/badge/RStudio-IDE-darkblue?logo=Rstudio)
-![VSCode](https://img.shields.io/badge/VSCode-IDE-blue?logo=vscode&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visual-studio-code&logoColor=blue)
 
 
 Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
