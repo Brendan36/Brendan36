@@ -81,11 +81,12 @@ Selenium · Scikit-learn · TensorFlow · REST APIs · OpenAI
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-black?logo=huggingface)
 
 
-PyCharm · Spyder · RStudio · 
+PyCharm · Spyder · RStudio · VS Code
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-006400?logo=pycharm&logoColor=black)
 ![Spyder](https://img.shields.io/badge/Spyder-IDE-ff4b4b?logo=spyder%20ide&logoColor=darkred)
-![RStudio](https://img.shields.io/badge/RStudio-IDE-blue?logo=Rstudio)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-darkblue?logo=Rstudio)
+![VSCode](https://img.shields.io/badge/VSCode-IDE-blue?logo=vscode&logoColor=blue)
 
 
 Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
