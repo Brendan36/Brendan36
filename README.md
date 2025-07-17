@@ -53,7 +53,7 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 BSc (Hons) in Information Technology (in progress)
 Richfield Graduate Institute of Technology
 
-Focus areas 🎯: Predictive Analytics · AI (in Finance) · Media · Blockchain · ESG
+Areas of interest 🎯: Predictive Analytics · AI (in Finance) · Media · Blockchain · ESG
 
 #### 🌱 I’m currently ...
   
