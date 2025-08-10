@@ -14,7 +14,7 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 - [📫 Connect With Me](#-connect-with-me)  
 - [🎓 Education](#-education)
 - [🧠 Tech Stack](#-tech-stack)  
-- [💼 Applications In Progress](#-applications-currently-in-various-stages-of-development)
+- [⚙ Projects and Applications](#-projects-and-applications)
 - [🌱 Future-Focused Projects](#-future-focused-projects)  
 
 ---
@@ -62,92 +62,87 @@ Pursuing a BSc (Hons) in Information Technology - to combine academic rigor with
 ---
 
 ### 🧠 Tech Stack
-Python · Pandas · NumPy · Matplotlib · Plotly · Streamlit
+#### Languages/Frameworks 
+<!Python · R · HTML · SQLite · CSS · Javascript · Node.js · React · PostgreSQL · Django · Flask!>
+![Python](https://img.shields.io/badge/Python-.-3776ab?logo=python&logoColor=3776ab)
+![JavaScript](https://img.shields.io/badge/JavaScript-.-f7df1e?logo=javascript&logoColor=f7df1e)
+![node.js](https://img.shields.io/badge/Node-.-5fa043?logo=nodedotjs&logoColor=5fa04e)
+![react.js](https://img.shields.io/badge/React-.-61dafb?logo=react&logoColor=61dafb)
+![R](https://img.shields.io/badge/.-R-276dc3?logo=R&logoColor=276dc3)
+![HTML](https://img.shields.io/badge/HTML5-.-e34f26?logo=html5&logoColor=e34f26)
+![CSS](https://img.shields.io/badge/.-css-663399?logo=css&logoColor=663399)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-.-4169e1?logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-.-4479a1?logo=mysql&logoColor=4479a1)
 
-![Pandas](https://img.shields.io/badge/Pandas-Analysis-darkblue?logo=pandas&logoColor=darkblue)
-![NumPy](https://img.shields.io/badge/NumPy-Analysis-00008B?logo=numpy&logoColor=blue)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-FFA500?logo=Matplotlib)
-![Plotly](https://img.shields.io/badge/Plotly-Visualization-FFA500?logo=plotly)
-![Streamlit](https://img.shields.io/badge/Streamlit-Web-ff4b4b?logo=streamlit)
-
-
-Selenium · Scikit-learn · TensorFlow · REST APIs · OpenAI
-
-![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?logo=tensorflow)
-![REST APIs](https://img.shields.io/badge/REST-APIs-FFD700?logo=fastapi)
-![OpenAI](https://img.shields.io/badge/OpenAI-AI-black?logo=openai&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-black?logo=huggingface)
-
-
-PyCharm · Spyder · RStudio · VS Code
-
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-006400?logo=pycharm&logoColor=black)
-![Spyder](https://img.shields.io/badge/Spyder-IDE-ff4b4b?logo=spyder%20ide&logoColor=darkred)
-![RStudio](https://img.shields.io/badge/RStudio-IDE-darkblue?logo=Rstudio)
+#### Dev Tools
+<!Git · GitHub · PyCharm · Spyder · RStudio · Docker · VS Code · Power BI · !>
+![Git](https://img.shields.io/badge/Git-VC-f05032?logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-VC-181717?logo=github&logoColor=181717)
+![Spyder](https://img.shields.io/badge/Spyder-IDE-8c0000?logo=spyder%20ide&logoColor=8c0000)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-3dea62?logo=pycharm&logoColor=3dea62)
+![RStudio](https://img.shields.io/badge/RStudio-IDE-lightblue?logo=rstudioide&logoColor=lightblue)
+![Docker](https://img.shields.io/badge/Docker-IDE-2496ed?logo=docker&logoColor=2496ed)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-IDE-blue?logo=visual-studio-code&logoColor=blue)
 
 
-Git · GitHub Desktop · MongoDB · SQLite · HTML/CSS
+#### Data/AI 
+<!Pandas · NumPy · scikit-learn · TensorFlow · Keras · Matplotlib · Plotly · Selenium !>
+![Power BI](https://img.shields.io/badge/Power%20BI-Analysis-yellow?logo=power-bi&logoColor=yellow)
+![Pandas](https://img.shields.io/badge/Pandas-Analysis-150458?logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-Analysis-4d77cf?logo=numpy&logoColor=4dabcf)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-f7931e?logo=scikitlearn&logoColor=f7931e)
+![SciPy](https://img.shields.io/badge/SciPy-ML-8caae6?logo=scipy&logoColor=8caae6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-ff6f00?logo=tensorflow&logoColor=ff6f00)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43b02a?logo=selenium&logoColor=43b02a)
 
-![Git](https://img.shields.io/badge/Git-VC-800080?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-VC-purple?logo=github&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-DB-white?logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-DB-white?logo=sqlite)
+![OpenAI](https://img.shields.io/badge/OpenAI-AI-412991?logo=openai&logoColor=000000)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-AI-ffd21e?logo=huggingface&logoColor=ffd21e)
+
+![Plotly](https://img.shields.io/badge/Plotly-Visualization-7a76ff?logo=plotly&logoColor=7a76ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-darkblue?logo=Matplotlib)
+
+#### Workflow/CI/CD pipelines 
+<!Selenium · Streamlit · OpenAI APIs · Postman!>
+![Streamlit](https://img.shields.io/badge/Streamlit-Web-ff4b4b?logo=streamlit&logoColor=ff4b4b)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium)
+![FastAPI](https://img.shields.io/badge/FastAPI-API-009688?logo=fastapi&logoColor=009688)
+![Postman](https://img.shields.io/badge/Postman-API-ff6c37?logo=postman&logoColor=ff6c37)
+
+
+#### Cloud & DBs
+<!SQLite · MySQL · (familiar with Mongo · AWS · GCP basics)!>
+![SQLite](https://img.shields.io/badge/SQLite-DB-003b57?logo=sqlite&logoColor=003b57)
+![MongoDB](https://img.shields.io/badge/MongoDB-DB-47a248?logo=mongodb&logoColor=47a248)
 
 
 ---
-### 💼 Applications Currently in Various Stages of Development
+### ⚙ Projects and Applications
 
-#### 🧪 WhatsApp Web Automation Tester
-A web app for automating WhatsApp web-based tests.
+#### 💼 Portfolio
+A streamlit web app of my portfolio.
+[| be |](https://be-portfolio.streamlit.app/)
 
-#### 📊 Data Analysis Simulator
-A web app for simulating data analysis tasks.
+#### 📊 Employee Retention Data Analysis Simulator App
+A web app that allows users to simulate employee retention in Lithuania.
+[view project](https://employee-retention-simulator.streamlit.app/)
 
-#### ✅ To-do List
-A simple web app for creating, updating, and deleting daily tasks.
-
-#### 📊 Automate Excel
-Upload an Excel file and auto-fill data into a template — no more repetitive manual entry!
-
-#### 🤖 AI Avatar
-An experimental AI-based avatar creator.
-
-#### ⌨ Typing Analyzer
-Monitors keyboard usage and returns the most typed words in a session.
-
-#### 🎥 Webcam Motion Detector
-Monitors a webcam and emails the user when movement is detected.
-
-#### 🛰️ Monitoring Data
-Monitors and records specific website data to a remote server.
-
-#### 📈 Visualizing Data
-Visualizes data pulled from websites using intuitive dashboards.
-
-#### 📰 Good News
-Fetches news using a sentiment filter — only positive news gets published!
-
-#### 🌡️ Climate Change API
-A REST API serving historical weather data to analyze climate change patterns.
-
-#### ☁️ Weather Forecast
-Forecasts 5-day weather trends by comparing current and historical data for future predictions.
-
-#### 🛍️ Online Store
-A Django-based sustainable store featuring eco-conscious vendors and transparent practices.
-
-#### 🐾 How My Pet Sees the World
-A fun image filter that mimics how pets might perceive the world — grayscale, blur, noise, and a touch of imagination.
+#### ⌨ WhatsApp Web QA Tester
+A web app that allows users to test (limited) WhatsApp features.
+[view project](https://github.com/Brendan36/whatsapp_tester.git)
 
 ---
 
-## 🌱 Future-Focused Projects
+### 🌱 Future-Focused Projects
 
-### 🚜 Smart Farming Using IoT & AI
+#### 📰 Media Bias Analysis Using NLP
+A system to detect media bias - where framing, selection, tone and sentiment are factors determining bias for informed readership.
+
+#### 🚜 Smart Farming Using IoT & AI
 A system to assist sustainable farming using sensors, predictive analytics, and blockchain identity for crop traceability.
+
+#### 💹 Ethical Investing
+A smart trading assistant focused on ethical, data-driven investment strategies.
+
 
 <!---
 ### 🧠 | be | fair
