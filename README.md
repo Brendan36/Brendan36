@@ -6,7 +6,7 @@
 
 #### 👀 Interested in ...
   
-I’m a cross-disciplinary problem solver passionate about using technology, transparency, and truth to build systems that empower people and promote sustainable outcomes. With a foundation in data analytics, algorithmic trading, and AI, I'm creating tools that challenge norms... from ethical trading bots to smart dashboards that visualize impact and decision-making in real time.
+I’m a cross-disciplinary problem solver passionate about using technology, transparency, and truth to build systems that empower people and promote sustainable outcomes. <br> With a foundation in data analytics, machine learning and algorithmic decision making, I'm creating tools that challenge norms... <br> from smart dashboards that visualize impact and decision-making in real time to ethical trading bots.
 
 ---
 
@@ -32,13 +32,13 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 ### ⚡ My work sits at the intersection of:
 
 
-**Finance & Sustainability** · building an algorithmic trading system that prioritize ethical investment.
-
-
 **AI & Human Insight** · applying machine learning, NLP, and statistical models to extract meaning from complex data.
 
 
 **Innovation & Integrity** · developing a project suite to spark reflection, fairness, and accountability.
+
+
+**Finance & Sustainability** · building an algorithmic trading system that prioritize ethical investment.
 
 ---
 ### 📫 Connect With Me
@@ -50,8 +50,7 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 
 ---
 ### 🎓 Education
-Bachelor of Science Honors - Information Technology
-Richfield Graduate Institute of Technology
+**Bachelor of Science Honors - Information Technology** · Richfield Graduate Institute of Technology
 
 Areas of interest 🎯: Predictive Analytics · AI (in Finance) · Media · Blockchain · ESG
 
