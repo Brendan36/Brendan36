@@ -50,7 +50,7 @@ I’m a cross-disciplinary problem solver passionate about using technology, tra
 
 ---
 ### 🎓 Education
-BSc (Hons) in Information Technology (in progress)
+Bachelor of Science Honors - Information Technology
 Richfield Graduate Institute of Technology
 
 Areas of interest 🎯: Predictive Analytics · AI (in Finance) · Media · Blockchain · ESG
@@ -118,9 +118,8 @@ Pursuing a BSc (Hons) in Information Technology - to combine academic rigor with
 ---
 ### ⚙ Projects and Applications
 
-#### 💼 Portfolio
-A streamlit web app of my portfolio.
-[| be |](https://be-portfolio.streamlit.app/)
+#### 📰 Media Bias Analysis Using NLP
+A system to detect media bias - where framing, selection, tone and sentiment are factors determining bias for informed readership.
 
 #### 📊 Employee Retention Data Analysis Simulator App
 A web app that allows users to simulate employee retention in Lithuania.
@@ -130,12 +129,13 @@ A web app that allows users to simulate employee retention in Lithuania.
 A web app that allows users to test (limited) WhatsApp features.
 [view project](https://github.com/Brendan36/whatsapp_tester.git)
 
+#### 💼 Portfolio
+A streamlit web app of my portfolio.
+[| be |](https://be-portfolio.streamlit.app/)
+
 ---
 
 ### 🌱 Future-Focused Projects
-
-#### 📰 Media Bias Analysis Using NLP
-A system to detect media bias - where framing, selection, tone and sentiment are factors determining bias for informed readership.
 
 #### 🚜 Smart Farming Using IoT & AI
 A system to assist sustainable farming using sensors, predictive analytics, and blockchain identity for crop traceability.
